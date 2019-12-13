@@ -1,7 +1,6 @@
 def using_times
-	#your code here
+	7.times
+	  puts "Wingardium Leviosa\nWingardium Leviosa\nWingardium Leviosa\nWingardium Leviosa\nWingardium Leviosa\nWingardium Leviosa\nWingardium Leviosa\n"
 end
-
-
 
 
